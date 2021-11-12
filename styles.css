@@ -1,0 +1,36 @@
+body {
+  font-family: "Segoe UI", "Helvetica";
+  background-color: #dadce3;
+}
+#main {
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+li {
+  font-size: 18px;
+  line-height: 2;
+}
+
+#image {
+  max-width: 60%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+bold {
+  font-weight: bold;
+}
+
+.hd-timeline {
+  font-size: 24px;
+  text-align: center;
+}
+
+a:hover {
+  color: red;
+}
